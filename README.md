@@ -1,6 +1,6 @@
 # cute-assistente 🌸
 
-## Cute-Assistant é uma assistente virtual desenvolvida para a plataforma Android com uma interface fofa e amigável.
+ Cute-Assistant é uma assistente virtual desenvolvida para a plataforma Android com uma interface fofa e amigável.
 O objetivo deste projeto é praticar e aprimorar habilidades em programação Android, enquanto criei uma experiência divertida e útil para os usuários.
 
 Funcionalidades
